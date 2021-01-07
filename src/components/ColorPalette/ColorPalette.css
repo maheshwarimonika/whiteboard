@@ -1,0 +1,27 @@
+.toolbar-palette {
+  display: flex;
+  align-items: center;
+}
+
+.toolbar-color {
+  width:18px;
+  height:18px;
+  border: 1px solid #E9E9E9;
+  padding: 1px;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.toolbar-fill {
+  width: 14px;
+  height: 14px;
+}
+
+.color-select {
+  border: 3px solid #666666;
+}

@@ -1,0 +1,15 @@
+.toolbar-strokeSelector {
+  display: flex;
+  align-items: center;
+}
+
+.toolbar-strokeSelector > div {
+  background: rgba(238,238,238,1);
+  border-radius: 50%;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.toolbar-strokeSelector > div:last-child {
+  margin-right: 0;
+}

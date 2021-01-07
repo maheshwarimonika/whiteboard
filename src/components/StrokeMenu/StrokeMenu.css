@@ -1,0 +1,22 @@
+.toolbar-strokeMenu {
+  background: rgba(255,255,255,1);
+  box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.2);
+  border-radius: 4px;
+  width: fit-content;
+  margin: auto;
+  min-height: 50px;
+}
+
+.toolbar-colorAndSize {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.toolbar-split {
+  width: 1px;
+  height: 20px;
+  background: #E9E9E9;
+  margin-left: 10px;
+  margin-right: 10px;
+}
